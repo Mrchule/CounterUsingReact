@@ -1,0 +1,22 @@
+.containe{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+h1{
+    font-size: 100px;
+}
+ .btn button{
+    padding: 10px;
+    background-color: #68d1eed2;
+    transition: .2s linear;
+    color: black;
+    margin: 10px;
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+ }
+ .btn button:hover{
+    background-color: #68d1eef9;
+ }
